@@ -24,5 +24,15 @@ namespace Merge
         {
 
         }
+
+        private void folderBrowserDialog1_HelpRequest(object sender, EventArgs e)
+        {
+
+        }
+
+        private void browseforpath_Click(object sender, EventArgs e)
+        {
+            
+        }
     }
 }
